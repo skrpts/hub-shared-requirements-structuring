@@ -3,7 +3,7 @@ id: "c7de9d47-b8ec-4988-b3ea-fce5f0daf583"
 name: "requirements-structuring"
 display_name: "Requirements Structuring"
 description: "Organising raw requirements into structured, hierarchical format with clear categorisation and traceability"
-version: "1.0.1"
+version: "1.0.2"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -14,6 +14,8 @@ category: "shared"
 tags:
   - "shared"
   - "skill"
+dependencies: []
+
 contents:
   skills: 1
   prompts: 0
